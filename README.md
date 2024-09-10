@@ -25,3 +25,8 @@ Solving CPU Stuck or Throttling due to increased GPU usage leading to CPU perfor
 - No viruses or malware
 - Open source
 - Tested on Windows 10
+
+### Example:
+  ![penyakit kumat](https://github.com/user-attachments/assets/40633ec7-5fc4-4961-9c96-e8ca3ebdff49)
+  ![penyakit kumat2](https://github.com/user-attachments/assets/d9d2832b-89c0-4dd7-b825-14dc563041c1)
+
