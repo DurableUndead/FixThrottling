@@ -1,6 +1,10 @@
 ### Fix Throttling
+Overcoming CPU Stuck or Throttling due to increased GPU usage causing CPU performance to decrease, possibly caused by the integration of CPU and GPU on the laptop processor (GPU uses CPU SpeedClock) or the limitation settings owned by the processor so that it does not overheat. (this conclusion is just an opinion)
 
-Solving CPU Stuck or Throttling due to increased GPU usage leading to CPU performance degradation, possibly caused by the integration of CPU and GPU in laptop processors.
+### How does this program work?
+- This program is very simple, just change the "Power Options" in windows in the "Select Plan" section to "Power Saver" then return to the "Balanced" plan. This method successfully overcomes cpu stuck due to excessive gpu usage.
+- If the cpu stuck has been resolved, you can turn it off or let it run in the background every 10 minutes will change the power options plan.
+- Unfortunately it does not solve it permanently but it might help because it can repeat every 10 minutes.
 
 #### Case Based on Experience:
 - Processor: AMD 3020e
@@ -27,6 +31,6 @@ Solving CPU Stuck or Throttling due to increased GPU usage leading to CPU perfor
 - Tested on Windows 10
 
 ### Example:
-  ![penyakit kumat](https://github.com/user-attachments/assets/40633ec7-5fc4-4961-9c96-e8ca3ebdff49)
+  ![gambar](https://github.com/user-attachments/assets/44933958-b5ff-4bc3-a0c7-d6cd15a109f8)
   ![penyakit kumat2](https://github.com/user-attachments/assets/d9d2832b-89c0-4dd7-b825-14dc563041c1)
 
